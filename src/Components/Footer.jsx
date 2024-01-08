@@ -12,7 +12,9 @@ const Footer = () => {
         <div className="footer-section-one">
 
             <div className="footer-logo-container">
+                <a href="#home">
                 <img src={Logo} alt="" />
+                </a>
             </div>
 
             <div className="footer-icons">
